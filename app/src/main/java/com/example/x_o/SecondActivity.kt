@@ -91,7 +91,7 @@ class SecondActivity : AppCompatActivity() {
                 view.text = "X"
                 view.setTextColor(Color.BLACK)
                 i += 1
-                view.setBackgroundColor(Color.RED)
+                view.setBackgroundColor(Color.CYAN)
             }
 
 
